@@ -1,0 +1,11 @@
+.li_items {
+  font-size: large;
+  width: 100%;
+  margin: 6px 0px;
+}
+
+span {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

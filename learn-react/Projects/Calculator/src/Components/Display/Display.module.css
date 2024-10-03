@@ -1,0 +1,10 @@
+.display {
+  margin: 20px;
+}
+
+input {
+  background-color: lightgrey;
+  padding: 20px 60px;
+  border: 1px solid black;
+  border-radius: 5px;
+}

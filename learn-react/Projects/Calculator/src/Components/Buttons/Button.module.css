@@ -1,0 +1,32 @@
+.buttonsContainer {
+  width: 60%;
+  height: auto;
+  margin: auto;
+  justify-content: center;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.keys {
+  border: 1px solid black;
+  width: 60px;
+  height: 60px;
+  margin: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  font-weight: 500;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+
+.keys:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}

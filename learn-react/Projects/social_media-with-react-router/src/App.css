@@ -1,0 +1,40 @@
+.app_container {
+  display: flex;
+}
+.side-bar {
+  min-height: 700px;
+}
+.content {
+  width: 100%;
+}
+
+.create-post-form {
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px double gray;
+  border-radius: 6px;
+}
+.postCard {
+  width: 30rem;
+  margin: 20px 50px;
+}
+
+.tags {
+  color: gray;
+  font-weight: 100;
+  font-size: 15px;
+  margin: 0 5px;
+}
+.reactions {
+  width: 70%;
+  margin: auto;
+}
+
+.welcomeMessage {
+  margin: 100px 0;
+}
+
+.spinner {
+  margin: 150px 0;
+}
